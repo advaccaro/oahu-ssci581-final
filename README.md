@@ -6,6 +6,8 @@ Adam Vaccaro
 SSCI 581: Spatial Thinking - Dr. Katsuhiko Oda
 USC Fall 2018
 
+[Link to draft](https://drive.google.com/file/d/13PB58sFSP9TbT6TiLzI7ARAAu1yjafb1/view?usp=sharing)
+
 ## Preprocessing
 ![alt text](https://raw.githubusercontent.com/advaccaro/oahu-ssci581-final/master/images/preprocessing.png)
 

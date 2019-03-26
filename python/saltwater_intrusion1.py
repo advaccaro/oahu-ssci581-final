@@ -26,7 +26,7 @@ def saltwater_intrusion1(oahu_dem, oahu_land_area, ss_val, slr_val):
 	ss_safe_zone = gdb + "ss_safe_zone"
 	arcpy.FeatureToPolygon(ss_boundary, ss_safe_zone)
 	slr_safe_zone = gdb + "slr_safe_zone"
-	arcpy.eatureToPolygon(slr_boundary, slr_safe_zone)
+	arcpy.FeatureToPolygon(slr_boundary, slr_safe_zone)
 
 	## Find areas that will be affected by SS and SLR
 	ss_zone = gdb + "ss_zone"

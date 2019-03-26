@@ -4,7 +4,7 @@ Saltwater intrusion assessment and water-well site suitability analysis
 
 Adam Vaccaro
 SSCI 581: Spatial Thinking - Dr. Katsuhiko Oda
-USC Fall 2018
+USC Fall 2017
 
 [Link to draft](https://drive.google.com/file/d/13PB58sFSP9TbT6TiLzI7ARAAu1yjafb1/view?usp=sharing)
 
